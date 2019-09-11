@@ -1,0 +1,15 @@
+{
+  "name": "unit_tests_espe",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Deiber / Anthony",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
