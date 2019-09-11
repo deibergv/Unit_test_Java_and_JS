@@ -6,8 +6,8 @@ Proyecto basado en NPM, creado para conocimientos básico sobre las utilidades d
 > # Mocha.js: https://mochajs.org/
 
 > # Algunos comandos utiles:
-npm install
-sudo apt-get install npm
-npm init
-npm install mocha chai --save
-npm test
+> npm install
+> sudo apt-get install npm
+> npm init
+> npm install mocha chai --save
+> npm test
